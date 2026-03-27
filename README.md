@@ -10,6 +10,7 @@ Array adalah struktur data yang digunakan untuk menyimpan sekumpulan data dengan
 <img width="523" height="524" alt="image" src="https://github.com/user-attachments/assets/3da8b6e2-b9f7-4349-9ea1-39984bf226bf" />
 <img width="480" height="540" alt="image" src="https://github.com/user-attachments/assets/0396daf1-8ab0-4626-9787-8bd3f086afa3" />
 
+
 # 3. Analisa Kompleksitas
 a. Membuat input data array : Harus mengisi semua elemen satu per satu
 b. Mencari nilai tertinggi, nilai terendah, serta nilain rata-rata : Harus mengecek semua elemen untuk menemukan nilai terbesar
